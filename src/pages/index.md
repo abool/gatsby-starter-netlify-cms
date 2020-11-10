@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Arteck vous emmerde !
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Arteck vous emmerde encore une fois
+subheading: toute la journée !!!
 mainpitch:
   title: Why Kaldi the fuck !
   description: >
