@@ -81,9 +81,9 @@ export const IndexPageTemplate = ({
                 <div className="columns">
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
+                      {intro.heading}
                     </h3>
-                    <p>{description}</p>
+                    <p>{intro.description}</p>
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
